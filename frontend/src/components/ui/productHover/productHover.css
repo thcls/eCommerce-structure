@@ -1,0 +1,24 @@
+
+.product-hover{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+    top: 0%;
+    right: 0%;
+    box-sizing: border-box;
+    background-color: rgba(58, 58, 58, 0.7);
+    max-width: 285px;
+    max-height: 446px;
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    align-items: center;
+    margin: auto;
+}
+.product-options{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}

@@ -1,0 +1,19 @@
+.size-buttons ul{
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+    gap: 15px;
+    margin: 0;
+}
+.size-button{
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    color: black;
+    background-color: #F9F1E7;
+    border: none;
+}
+.size-button:hover{
+    color: white;
+    background-color: #B88E2F;
+}

@@ -1,0 +1,29 @@
+.color-buttons ul{
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+    gap: 15px;
+    margin: auto;
+}
+.color-buttons li{
+    border-radius: 50%;
+    border: 2px solid rgba(0, 0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 2px;
+}
+.color-buttons li:hover{
+    border: 2px solid #B88E2F;
+}
+.color-button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: black;
+    background-color: #F9F1E7;
+    border: none;
+    box-sizing: border-box;
+    margin: auto;
+}

@@ -1,0 +1,24 @@
+.amountContainer{
+    display: inline-flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 64px;
+    width: 123px;
+    margin: 2em 0;
+    font-family: "Poppins", sans-serif;
+}
+.amountButton{
+    background-color: white;
+    border: none;
+    font-size: 20px;
+}
+.amountButton:hover{
+    cursor: pointer;
+}
+.amountContainer p{
+    color: black;
+    margin: auto;
+}
+.amountContainer button{
+    margin: 1em;
+}

@@ -1,0 +1,11 @@
+#products{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1236px;
+    width: 100%;
+    box-sizing: border-box;
+    margin: auto;
+}

@@ -1,0 +1,18 @@
+.paginationButton{
+    outline: none;
+    background-color: white;
+    color: #B88E2F;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    border: 1px solid #B88E2F;
+    border-radius: 10px;
+    margin: 0;
+}
+.paginationButton:hover{
+    color: white;
+    background-color:  #B88E2F;
+}

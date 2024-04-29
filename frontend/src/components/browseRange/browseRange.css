@@ -1,0 +1,6 @@
+#browse-the-range-cards{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+}

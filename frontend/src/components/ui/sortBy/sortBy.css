@@ -1,0 +1,23 @@
+select{
+    height: 55px;
+    width: 188px;
+    background-color: white;
+    border: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    color: #898989;
+    padding-left: 2em;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+
+}
+
+.short-by{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 17px;
+}

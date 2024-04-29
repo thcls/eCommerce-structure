@@ -1,0 +1,10 @@
+.icon{
+    width: 23px;
+    height: 23px;
+}
+.icon-list{
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    gap: 20px;
+}

@@ -1,0 +1,43 @@
+.product-card{
+    max-width: 285px;
+    max-height: 446px;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #F4F5F7;
+    position: relative;
+}
+.product-card h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+}
+div > p {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #898989;
+    margin: 0.5em 0
+}
+.product-prices{
+    display: inline-flex;
+    gap: 16px;
+    vertical-align: middle;
+    justify-content: left;
+    white-space: nowrap;
+}
+.current-price{
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin: auto;
+}
+.old-prices{
+    text-decoration: line-through;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #B0B0B0;
+}

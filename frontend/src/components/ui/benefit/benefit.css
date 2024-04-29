@@ -1,0 +1,25 @@
+#benefits > div{
+    display: flex;
+    margin: auto;
+}
+#benefits img{
+    height: 60px;
+    margin: auto;
+    
+}
+.benefit{
+    margin-left: 1em;
+}
+.benefit h3{
+    font-family: "Poppins", sans-serif;;
+    font-weight: 600;
+    font-size: 25px;
+    margin: 0;
+}
+.benefit p{
+    font-family: "Poppins", sans-serif;;
+    font-weight: 500;
+    font-size: 20px;
+    color: #898989;
+    margin: 0;
+}
